@@ -1,0 +1,164 @@
+#header {
+    text-align: center;
+    background-image: url(images/background/bgimage2.php);
+    background-position: center;
+}
+
+#message {
+    text-align: right;
+    font-size: 25px;
+}
+
+#section {
+    text-align: center;
+}
+
+h2 span {
+    border: 4px dashed #20bcd5;
+    padding: 10px;
+}
+
+form {
+    text-align: center;
+}
+
+.inputuno,
+.inputdos {
+    width: 550px;
+    border-radius: 1px;
+}
+
+.textarea {
+    margin-top: 3px;
+    width: 550px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.submit {
+    width: 550px;
+    border-radius: 5px;
+    background-color: #3fb6b2;
+    border: none;
+    outline: none;
+    color: white;
+    font: bold;
+    text
+}
+
+.submit:hover {
+    background-color: #EC993C;
+}
+
+#contacts img {
+    height: 75px;
+    width: 75px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+#contacts a {
+    text-decoration: none;
+}
+
+progress {
+    width: 90%;
+    height: 23px;
+    color: #3fb6b2;
+    background: #efefef;
+}
+
+progress::-webkit-progress-bar {
+    background: #efefef;
+}
+
+progress::-webkit-progress-value {
+    background: #3fb6b2;
+}
+
+progress::-moz-progress-bar {
+    color: #3fb6b2;
+    background: #efefef;
+}
+
+li {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+th {
+    background-color: #E28721;
+}
+
+td {
+    font-size: 15pt;
+}
+
+.construction {
+    text-align: center;
+    width: 750px;
+    height: 150px;
+}
+
+.myself {
+    font-size: 23px;
+}
+
+
+/*Globales*/
+
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 13pt;
+    font-family: 'Handlee', cursive;
+    background-color: #EC993C;
+    padding: 10px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 15pt;
+    text-align: center;
+    color: #20bcd5;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+
+h1 {
+    text-align: center;
+    color: azure;
+}
+
+.section {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 25pt;
+    color: #20bcd5;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 15px 0;
+}
+
+table {
+    width: 100%;
+    font-size: 17pt;
+    margin-top: 20px;
+}
+
+table,
+th,
+td {
+    border: 2px solid #cecece;
+    border-collapse: collapse;
+    text-align: center;
+    table-layout: fixed;
+}
